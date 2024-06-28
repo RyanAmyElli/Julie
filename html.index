@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Broken Heart</title>
+	<style>
+		body {
+			background-color: #f0f0f0; /* light gray background */
+			font-family: Arial, sans-serif;
+		}
+		
+		.heart {
+			font-size: 24px;
+			color: #ff69b4; /* pink color */
+			margin: 10px;
+		}
+		
+		.broken-heart {
+			font-size: 24px;
+			color: #ff69b4; /* pink color */
+			margin: 10px;
+			text-decoration: line-through;
+		}
+	</style>
+</head>
+<body>
+	<h1>Do not talk to me Julie</h1>
+	
+	<!-- Broken hearts all over the page -->
+	<div class="heart-container">
+		<span class="broken-heart">&hearts;</span>
+		<span class="broken-heart">&hearts;</span>
+		<span class="broken-heart">&hearts;</span>
+		<span class="broken-heart">&hearts;</span>
+		<span class="broken-heart">&hearts;</span>
+		<br>
+		<span class="broken-heart">&hearts;</span>
+		<span class="broken-heart">&hearts;</span>
+		<span class="broken-heart">&hearts;</span>
+		<span class="broken-heart">&hearts;</span>
+		<span class="broken-heart">&hearts;</span>
+		<br>
+		<span class="broken-heart">&hearts;</span>
+		<span class="broken-heart">&hearts;</span>
+		<span class="broken-heart">&hearts;</span>
+		<span class="broken-heart">&hearts;</span>
+		<span class="broken-heart">&hearts;</span>
+		<br>
+		<!-- Add more broken hearts as needed -->
+	</div>
+</body>
+</html>
